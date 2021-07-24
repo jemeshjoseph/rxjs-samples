@@ -1,0 +1,40 @@
+{
+  "name": "rxjs-samples",
+  "version": "1.0.0",
+  "description": "RxJS sample programs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jemeshjoseph/rxjs-samples.git"
+  },
+  "keywords": [
+    "RxJS",
+    "Node.js",
+    "JavaScript",
+    "Reactive",
+    "Async",
+    "Asynchronous",
+    "Observables",
+    "Operators",
+    "Events",
+    "Ajax",
+    "Pipe",
+    "Function"
+  ],
+  "author": "Jemesh Joseph <jemesh.joseph@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jemeshjoseph/rxjs-samples/issues"
+  },
+  "homepage": "https://github.com/jemeshjoseph/rxjs-samples#readme",
+  "dependencies": {
+    "esm": "^3.2.25",
+    "rxjs": "^7.2.0"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.12"
+  }
+}
